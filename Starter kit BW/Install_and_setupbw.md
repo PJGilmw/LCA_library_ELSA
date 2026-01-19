@@ -20,7 +20,7 @@ This guide is written by non-IT users; terminology is intentionally simplified t
 
 Download the files of this repository by clicking on the upper-right corner of the page:
 
-<img src="downloadzip.jpg"
+<img src="images/downloadzip.jpg"
   alt="Download repository as ZIP"
   width="500"
   style="display: block; margin: 20px auto;" />
@@ -42,14 +42,14 @@ Go to: [https://www.anaconda.com/download](https://www.anaconda.com/download)
 * Click **Get Started** and sign in (or create an account)
 * Choose your operating system, download and install.
 
-<img src="Anaconda_1.jpg"
+<img src="images/Anaconda_1.jpg"
   alt="Anaconda download page"
   width="500"
   style="display: block; margin: 20px auto;" />
 
 You should now have access to an Anaconda terminal (**Anaconda Prompt** or **Anaconda PowerShell Prompt**).
 
-<img src="anacondaprompt1.jpg"
+<img src="images/anacondaprompt1.jpg"
   alt="Anaconda Prompt"
   width="500"
   style="display: block; margin: 20px auto;" />
@@ -65,7 +65,7 @@ You should now have access to an Anaconda terminal (**Anaconda Prompt** or **Ana
 Open your Anaconda terminal. You are now communicating with your system using shell commands (not Python yet).
 By default, you are in the **base** environment — we will not install anything there.
 
-<img src="anacondaprompt_base.jpg"
+<img src="images/anacondaprompt_base.jpg"
   alt="Base conda environment"
   width="500"
   style="display: block; margin: 20px auto;" />
@@ -86,7 +86,7 @@ cd <path_to_repository>/Environment_file
 
 You can copy the path by right-clicking the folder and selecting *Copy path*.
 
-<img src="copierchemindacces.jpg"
+<img src="images/copierchemindacces.jpg"
   alt="Copy folder path"
   width="500"
   style="display: block; margin: 20px auto;" />
@@ -119,7 +119,7 @@ conda activate lca_basics
 
 You should see the environment name appear at the left of the command prompt.
 
-<img src="activatenv.jpg"
+<img src="images/activatenv.jpg"
   alt="Activated conda environment"
   width="500"
   style="display: block; margin: 20px auto;" />
@@ -162,7 +162,7 @@ Follow the instructions in the notebook and execute each cell.
 To execute a cell, use the Run button or press **Shift + Enter**.
 
 
-<img src="runcell.jpg"
+<img src="images/runcell.jpg"
   alt="Run Jupyter cell"
   width="500"
   style="display: block; margin: 20px auto;" />
