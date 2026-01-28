@@ -149,7 +149,7 @@ cd Scripts
 Launch the setup script
 
 ```
-jupyter setup_project.py
+jupyter lab setup_project.py
 ```
 
 ***What does it do / mean?***
